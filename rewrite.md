@@ -7,7 +7,8 @@ Last year, I met with several technical writers for a virtual round table discus
   - **What advice would you give a new technical writer?** There's room for every topic and every perspective in technical writing. Write about what you know, and enjoy writing about it.
   - **What's your writing process?** Some of us research a topic before writing about it, and others learn more about it as they go. Explain it like you're talking to a friend.
 
-![Screenshot of 5 people on a video call](roundtable.jpg)"Our roundtable about technical writing"
+![Screenshot of 5 people on a video call](roundtable.jpg)
+  <figcaption>Our roundtable about technical writing</figcaption>
    
 ## Advice for new writers
 
