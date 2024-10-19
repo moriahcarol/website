@@ -1,0 +1,16 @@
+Body text should be 14-point. 
+You can use whatever font family you like, or not define a font family at all.
+Bold text like <strong> should be bright blue. 
+Use hex value #0000ff or #00f or RGB code rgb(0,0,255) or named color blue.
+
+Italic text like <em> should be bright green.
+Use hex value #00ff00 or #0f0 or RGB code rgb(0,255,0) or named color lime.
+
+Inline quotes like <q> should be bright red. 
+Use hex value #ff0000 or #f00 or RGB code rgb(255,0,0) or named color red.
+
+Block quotes like <blockquote> should use a light-ish gray background color. 
+Use hex value #dcdcdc or named color gainsboro.
+
+Your stylesheet does not need to include other styling such as padding or margins, 
+but you may include these if you wish.
