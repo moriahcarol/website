@@ -1,24 +1,22 @@
-/* Page Layout */
+
 text-align: start;
 padding: 1em;
 margin: 1em;
 
-/* Typography */
 font-size: 14pt; 
-font-family: ui-sans-serif;
+font-family: sans-serif;
 font-weight: normal;
 
-strong {
+b {
   color:#0000ff;
 }
-em {
+i {
   color:#00ff00;
 }
 q {
   color:#ff0000
 } 
   
-/* Elements */
 blockquote {
   background-color:#dcdcdc;
 }
